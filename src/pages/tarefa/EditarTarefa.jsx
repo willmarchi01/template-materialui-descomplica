@@ -72,7 +72,7 @@ const EditarTarefa = ({handleCloseEditar, idTarefaSelecionada, tarefas, tarefa, 
       <Card sx={style}>
         <CardHeader
           title="Tarefas"
-          subheader="Edição de Tarefas"
+          subheader="Editar Tarefas"
         /> 
         <CardContent sx={{
           width: '95%',
